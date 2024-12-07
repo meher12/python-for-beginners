@@ -1,0 +1,97 @@
+[I 2024-12-07 12:55:12.978 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-12-07 12:55:12.981 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-12-07 12:55:12.983 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-12-07 12:55:12.986 ServerApp] notebook | extension was successfully linked.
+[I 2024-12-07 12:55:13.105 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-12-07 12:55:13.114 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-12-07 12:55:13.116 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-12-07 12:55:13.116 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-12-07 12:55:13.117 LabApp] JupyterLab extension loaded from /home/maher/Documents/workspacePy/python-for-beginners/envpy3/lib/python3.12/site-packages/jupyterlab
+[I 2024-12-07 12:55:13.117 LabApp] JupyterLab application directory is /home/maher/Documents/workspacePy/python-for-beginners/envpy3/share/jupyter/lab
+[I 2024-12-07 12:55:13.117 LabApp] Extension Manager is 'pypi'.
+[I 2024-12-07 12:55:13.145 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-12-07 12:55:13.147 ServerApp] notebook | extension was successfully loaded.
+[I 2024-12-07 12:55:13.148 ServerApp] Serving notebooks from local directory: /home/maher/Documents/workspacePy/python-for-beginners
+[I 2024-12-07 12:55:13.148 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-12-07 12:55:13.148 ServerApp] http://localhost:8888/tree?token=fd83a8e0ae19ef9bc5560aaa742f7f91100c766fa42b460f
+[I 2024-12-07 12:55:13.148 ServerApp]     http://127.0.0.1:8888/tree?token=fd83a8e0ae19ef9bc5560aaa742f7f91100c766fa42b460f
+[I 2024-12-07 12:55:13.148 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-12-07 12:55:13.657 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/maher/.local/share/jupyter/runtime/jpserver-17696-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=fd83a8e0ae19ef9bc5560aaa742f7f91100c766fa42b460f
+        http://127.0.0.1:8888/tree?token=fd83a8e0ae19ef9bc5560aaa742f7f91100c766fa42b460f
+[I 2024-12-07 12:55:13.979 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-12-07 12:56:28.201 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-12-07 12:56:28.204 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-12-07 12:56:28.206 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-12-07 12:56:28.209 ServerApp] notebook | extension was successfully linked.
+[I 2024-12-07 12:56:28.325 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-12-07 12:56:28.334 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-12-07 12:56:28.335 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-12-07 12:56:28.336 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-12-07 12:56:28.337 LabApp] JupyterLab extension loaded from /home/maher/Documents/workspacePy/python-for-beginners/envpy3/lib/python3.12/site-packages/jupyterlab
+[I 2024-12-07 12:56:28.337 LabApp] JupyterLab application directory is /home/maher/Documents/workspacePy/python-for-beginners/envpy3/share/jupyter/lab
+[I 2024-12-07 12:56:28.337 LabApp] Extension Manager is 'pypi'.
+[I 2024-12-07 12:56:28.365 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-12-07 12:56:28.367 ServerApp] notebook | extension was successfully loaded.
+[I 2024-12-07 12:56:28.367 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-12-07 12:56:28.368 ServerApp] Serving notebooks from local directory: /home/maher/Documents/workspacePy/python-for-beginners
+[I 2024-12-07 12:56:28.368 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-12-07 12:56:28.368 ServerApp] http://localhost:8889/tree?token=4f68c9d6fc202d2c855fc2b85528cf0245c219699dddaf5e
+[I 2024-12-07 12:56:28.368 ServerApp]     http://127.0.0.1:8889/tree?token=4f68c9d6fc202d2c855fc2b85528cf0245c219699dddaf5e
+[I 2024-12-07 12:56:28.368 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-12-07 12:56:28.861 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/maher/.local/share/jupyter/runtime/jpserver-19024-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=4f68c9d6fc202d2c855fc2b85528cf0245c219699dddaf5e
+        http://127.0.0.1:8889/tree?token=4f68c9d6fc202d2c855fc2b85528cf0245c219699dddaf5e
+[I 2024-12-07 12:56:29.185 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-12-07 12:56:48.051 ServerApp] Kernel started: 2ba3ece9-6731-4d5a-9439-f98287c64656
+[I 2024-12-07 12:56:48.408 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 12:56:48.413 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 12:56:48.419 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 12:58:47.963 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:01:04.395 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:01:10.752 ServerApp] Creating new file in 
+[I 2024-12-07 13:01:17.115 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:01:59.987 ServerApp] Saving file at /UC Irvine Machine Learning Repository.txt
+[W 2024-12-07 13:02:03.794 ServerApp] 404 GET /api/contents/uci.txt?type=file&content=1&hash=1&format=text&1733572923773 (140f1c1b07bc4720bc170268177b0a9a@127.0.0.1) 0.96ms referer=http://localhost:8889/tree
+[W 2024-12-07 13:02:03.795 ServerApp] 404 GET /api/contents/uci.txt?type=file&content=1&hash=1&format=text&1733572923773 (127.0.0.1): No such file or directory: uci.txt
+[I 2024-12-07 13:02:04.535 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[W 2024-12-07 13:02:04.629 ServerApp] 404 GET /api/contents/uci.txt?type=file&content=1&hash=1&format=text&1733572924625 (140f1c1b07bc4720bc170268177b0a9a@127.0.0.1) 0.71ms referer=http://localhost:8889/edit/uci.txt
+[W 2024-12-07 13:02:04.629 ServerApp] 404 GET /api/contents/uci.txt?type=file&content=1&hash=1&format=text&1733572924625 (127.0.0.1): No such file or directory: uci.txt
+[I 2024-12-07 13:02:10.235 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:02:33.294 ServerApp] Creating new directory in 
+[I 2024-12-07 13:04:39.554 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:06:49.269 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:08:49.358 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:12:49.439 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:14:49.554 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:15:54.685 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:16:08.558 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:18:08.629 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:20:08.719 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:22:08.862 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:24:08.937 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:26:08.977 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:26:41.770 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:26:52.766 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:28:09.096 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:29:12.463 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:30:09.199 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:32:09.295 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:33:29.382 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:34:02.392 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:34:09.335 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:34:42.768 ServerApp] Connecting to kernel 2ba3ece9-6731-4d5a-9439-f98287c64656.
+[I 2024-12-07 13:36:09.495 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:38:09.538 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:39:11.450 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:39:12.439 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:41:19.121 ServerApp] Saving file at /Files.ipynb
+[I 2024-12-07 13:41:20.357 ServerApp] Starting buffering for 2ba3ece9-6731-4d5a-9439-f98287c64656:d367f3cd-f451-4970-b30d-a9c4e2c30116
